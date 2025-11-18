@@ -31,7 +31,7 @@ Para la detección de emociones para esta práctica se ha utilizado `YOLO11s`, a
 Este modelo se entrenó utilizando un conjunto de imágenes provenientes de un dataset de kaggle a partir del siguiente link:
 https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer?resource=download
 
-El dataset cuenta con imágenes imagenes de personas divididas en 6 emociones:
+El dataset cuenta con imágenes de personas divididas en 6 emociones:
 
 - Enfado
 - Miedo
@@ -78,7 +78,7 @@ Este sería el resultado en formato gif del filtro:
 
 Como segundo filtro planteado se optó por imitar a un personaje antiguo con monóculo, bigote blanco y sombrero de copa.
 
-En esta ocasión, en lugar de usar Haar Cascade, se prefirió por probar otro metodo de detección de caras usar `Deepface`
+En esta ocasión, en lugar de usar Haar Cascade, se prefirió por probar otro método de detección de caras usar `Deepface`
 
 Los pasos a seguir son añadir sobre el ojo un monóculo, sobre la cabeza el sombrero y a la altura entre la boca y la nariz el bigote.
 
@@ -91,7 +91,7 @@ Las imágenes utilizadas son las siguientes:
   </tr>
 </table>
 
-Para añadirle un toque extra, se aplicó a la imagen un filtro blanco y negro y estática recordando las teles antiguas.
+Para añadirle un toque extra, se aplicó a la imagen un filtro blanco y negro y estática, recordando las teles antiguas.
 
 Este sería el resultado en formato gif del filtro:
 ![python_v86y6vg3w0](https://github.com/user-attachments/assets/8dae7641-be7a-4bdb-b9f2-212f63dfb7d0)
